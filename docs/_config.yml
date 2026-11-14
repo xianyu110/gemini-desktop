@@ -1,0 +1,6 @@
+title: "无需魔法的 Gemini 客户端：支持最新 Gemini 4，能写、能生图、能生视频"
+description: "国内直连、无需魔法的第三方 Gemini 桌面客户端，支持 Windows 和 macOS，可用 Gemini 4 写文字、生图、生视频。"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+lang: zh-CN
